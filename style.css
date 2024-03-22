@@ -1,0 +1,16 @@
+/* CSS EXTERNO */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    }
+
+p{
+    font-weight: bold;
+}
+
+#my-title{
+    margin: 10px;
+    border-radius: 5px;
+}
